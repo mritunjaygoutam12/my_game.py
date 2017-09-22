@@ -9,7 +9,7 @@ class User(object):
         opponent.append(inp)
 	
         x=0 
-# input from user and also computer turn by turn
+# input from user and also computer turn 
 
         for i in range (1,5):
  
